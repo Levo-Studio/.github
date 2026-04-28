@@ -98,7 +98,7 @@ Founder @ Levo Studio
 
 If you're looking for a website or system that actually delivers results:
 
-<p align="center">
+<p align="left">
   <a href="https://levo-studio.com">
     <strong>👉 Start your project with Levo Studio</strong>
   </a>
@@ -107,5 +107,5 @@ If you're looking for a website or system that actually delivers results:
 ---
 
 <p align="left">
-  Built with precision. Focused on results.
+  Built with precision and ❤️ in Germany 
 </p>
