@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./logo.PNG" alt="Levo Studio Logo" width="120" />
+  <img src="../profile/logo.PNG" alt="Levo Studio Logo" width="120" />
 </p>
 
 <h1 align="center">Levo Studio</h1>
