@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../profile/logo-rectangle.PNG" alt="Levo Studio Logo" width="120" />
+  <img src="https://raw.githubusercontent.com/Levo-Studio/.github/main/profile/logo-rectangle.PNG" width="120" />
 </p>
 
 <h1 align="center">Levo Studio</h1>
