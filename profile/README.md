@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Levo-Studio/.github/main/profile/logo-rectangle.PNG" width="120" />
+  <img src="https://raw.githubusercontent.com/Levo-Studio/.github/main/profile/logo-rectangle.PNG" width="160" />
 </p>
 
 <h1 align="center">Levo Studio</h1>
@@ -106,6 +106,6 @@ If you're looking for a website or system that actually delivers results:
 
 ---
 
-<p align="left">
+<p align="center">
   Built with precision and ❤️ in Germany 
 </p>
