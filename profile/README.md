@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://levo-studio.com"><strong>🌐 Visit Website</strong></a> •
-  <a href="https://levo-studio.com/configure"><strong>🚀 Start a Project</strong></a>
+  <a href="https://levo-studio.com/configure"><strong>🚀 Start a Project</strong></a> •
   <a href="https://calendly.com/levo-studio/client-onboarding"><strong> 📆 Get in touch</strong></a>
 </p>
 
