@@ -106,6 +106,6 @@ If you're looking for a website or system that actually delivers results:
 
 ---
 
-<p align="center">
+<p align="left">
   Built with precision. Focused on results.
 </p>
