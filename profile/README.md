@@ -90,6 +90,8 @@ This organization contains selected:
 **Julius Grimm**  
 Founder @ Levo Studio  
 
+👉 <a href="https://juliusgrimm.dev">juliusgrimm.dev</a>
+
 ---
 
 ## 📞 Work with us
