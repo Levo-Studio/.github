@@ -1,112 +1,69 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Levo-Studio/.github/main/profile/logo-rectangle.PNG" width="120" />
-</p>
+<div align="center">
 
-<h1 align="center">Levo Studio</h1>
+<img src="https://raw.githubusercontent.com/Levo-Studio/.github/main/profile/logo-rectangle.PNG" width="96" />
 
-<p align="center">
-  <strong>Modern, conversion-focused websites & software</strong><br/>
-  Built to perform. Built to convert.
-</p>
+# Levo Studio
 
-<p align="center">
-  <a href="https://levo-studio.com"><strong>🌐 Visit Website</strong></a> •
-  <a href="https://levo-studio.com/configure"><strong>🚀 Start a Project</strong></a> •
-  <a href="https://calendly.com/levo-studio/client-onboarding"><strong> 📆 Get in touch</strong></a>
-</p>
+### Built in Germany. Hosted in Europe.
 
----
+We build production software on infrastructure we own.<br/>
+Nothing leaves Europe. Nothing depends on a vendor you didn't choose.
 
-## 🚀 What we do
+<br/>
 
-Levo Studio builds **high-performance websites and software**  
-for freelancers, local businesses, and growing companies.
+[![Website](https://img.shields.io/badge/levo--studio.com-0A0A0A?style=for-the-badge&logo=safari&logoColor=white)](https://levo-studio.com)
+[![Start a Project](https://img.shields.io/badge/Start%20a%20Project-0A0A0A?style=for-the-badge)](https://levo-studio.com/configure)
+[![Talk to us](https://img.shields.io/badge/Talk%20to%20us-0A0A0A?style=for-the-badge)](https://cal.com/levo-studio)
 
-We focus on:
-- Clear positioning
-- Fast, responsive experiences
-- Conversion-driven structure
-- Reliable, scalable systems
+</div>
 
-From idea to deployment — everything handled.
+<br/>
 
----
+## → Mission
 
-## 🧠 Our Focus
+Software should belong to the people who use it — not the vendor renting it out.
+We build systems where the owner controls the data, the infrastructure, and the outcome.
 
-We don’t build websites that just look good.
+<br/>
 
-We build systems that:
-- communicate value instantly
-- create trust within seconds
-- turn visitors into customers
+## → What we build
 
-Every decision is made with one goal:
+|  |  |
+| --- | --- |
+| **Software** | SaaS platforms, internal tools, customer portals, APIs, backend systems — built to run for years, not to demo once. |
+| **Infrastructure** | Our own servers across Frankfurt, Falkenstein, and the Netherlands. No US hyperscalers. No black boxes. |
+| **Operations** | Deployment automation, managed hosting, PostgreSQL, object storage, monitoring, maintenance. |
 
-> **Performance over aesthetics. Results over assumptions.**
+> Websites are one output. Not the business.
 
----
+<br/>
 
-## 🏗️ Technology
+## → Stack
 
-- Next.js / Astro / Vite  
-- TypeScript  
-- Tailwind CSS  
-- Modern deployment infrastructure  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-0A0A0A?style=flat-square&logo=nextdotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=flat-square&logo=traefikproxy&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-0A0A0A?style=flat-square&logo=linux&logoColor=white)
 
-Built for **speed, scalability, and long-term reliability**.
+Push to GitHub → CI builds the image → newest version deploys itself. No manual steps, no ceremony.
 
----
+<br/>
 
-## 🔐 Security & Hosting
+## → Status
 
-All projects are deployed on **professional infrastructure in Germany 🇩🇪 (Falkenstein)**.
+**Fully operating.** Open for new projects.
 
-- DSGVO / GDPR compliant environments  
-- ISO-aligned infrastructure standards  
-- Secure deployment pipelines  
-- Reliable uptime & performance  
-
-Your data stays protected. Your systems stay stable.
+<br/>
 
 ---
 
-## 📦 Projects
+<div align="center">
 
-This organization contains selected:
-- client projects
-- public experiments
-- technical showcases
+**Julius Grimm** &nbsp;·&nbsp; Founder &nbsp;·&nbsp; [juliusgrimm.dev](https://juliusgrimm.dev)
 
----
+<sub>Built in Germany. Slightly overengineered, on purpose.</sub>
 
-## ⚡ Status
-
-**Currently in the founding phase — and open for new projects.**
-
----
-
-## 🧑‍💻 Founder
-
-**Julius Grimm**  
-Founder @ Levo Studio  
-
-👉 <a href="https://juliusgrimm.dev">juliusgrimm.dev</a>
-
----
-
-## 📞 Work with us
-
-If you're looking for a website or system that actually delivers results:
-
-<p align="left">
-  <a href="https://levo-studio.com">
-    <strong>👉 Start your project with Levo Studio</strong>
-  </a>
-</p>
-
----
-
-<p align="center">
-  Built with precision and ❤️ in Germany 
-</p>
+</div>
