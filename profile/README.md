@@ -12,7 +12,7 @@ Nothing leaves Europe. Nothing depends on a vendor you didn't choose.
 <br/>
 
 [![Website](https://img.shields.io/badge/levo--studio.com-0A0A0A?style=for-the-badge&logo=safari&logoColor=white)](https://levo-studio.com)
-[![Start a Project](https://img.shields.io/badge/Start%20a%20Project-0A0A0A?style=for-the-badge)](https://levo-studio.com/configure)
+[![Start a Project](https://img.shields.io/badge/Start%20a%20Project-0A0A0A?style=for-the-badge)](https://levo-studio.com)
 [![Talk to us](https://img.shields.io/badge/Talk%20to%20us-0A0A0A?style=for-the-badge)](https://cal.com/levo-studio)
 
 </div>
