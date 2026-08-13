@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Levo-Studio/.github/main/profile/logo-rectangle.PNG" width="96" />
+<img src="https://raw.githubusercontent.com/Levo-Studio/.github/main/profile/levo-gold.svg" width="96" />
 
 # Levo Studio
 
